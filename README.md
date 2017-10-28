@@ -1,6 +1,6 @@
 # capstoneJH - Tools to clean and visualise NOAA data
 
-
+[![Travis-CI Build Status](https://travis-ci.org/JimMeister/capstoneJH.svg?branch=master)](https://travis-ci.org/JimMeister/capstoneJH)
 
 ## Description
 
