@@ -2,8 +2,8 @@ Package: capstoneJH
 Type: Package
 Title: Package for visualization of NOAA earthquakes
 Version: 0.1.0
-Author: Dimitris Gateley [aut,cre]
-Maintainer: Dimitris Gateley <dimgateley@gmail.com>
+Author: JimMeister[aut,cre]
+Maintainer: JimMeister
 Description: This package provides tools for cleaning and visualising NOAA
     earthquake data.
 License: GPL (>= 3) | file LICENSE
